@@ -20,3 +20,8 @@ Config:
 	- voiceurl (to be added to purchased numbers)
 	- smsurl (to be added to purchased numbers)
 	- csv  (input file)
+
+To run:
+ruby find_sub_buy_recursive.rb
+
+The input file should be in the same directory, and the output files will be local. 
